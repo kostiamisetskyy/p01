@@ -1,1 +1,19 @@
-{"short_name":"BKK","name":"BKK Street Food","icons":[{"src":"https://bkkstreetfood.ch/assets/img/WhatsApp-Image-2025-04-23-at-1.45.43 PM-(1).png","type":"image/png","sizes":"500x500"},{"src":"https://bkkstreetfood.ch/assets/img/WhatsApp-Image-2025-04-23-at-1.45.43 PM-(1).png","type":"image/png","sizes":"500x500"}],"start_url":"index.html","display":"fullscreen"}
+{
+  "short_name": "BKK Lausanne",
+  "name": "BKK Street Food Lausanne",
+  "description": "Livraison de cuisine thaïlandaise authentique à Lausanne.",
+  "icons": [
+    {
+      "src": "https://bkkstreetfood.ch/assets/img/WhatsApp-Image-2025-04-23-at-1.45.43 PM-(1).png",
+      "type": "image/png",
+      "sizes": "500x500"
+    },
+    {
+      "src": "https://bkkstreetfood.ch/assets/img/WhatsApp-Image-2025-04-23-at-1.45.43 PM-(1).png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen"
+}
